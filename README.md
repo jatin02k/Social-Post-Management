@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Social Post Management
 
 A basic web application built using Node.js, Express.js, and MongoDB for managing user accounts and social media posts. This project features essential functionality like user account creation, login, profile management, and the ability to create, view, edit, and delete posts. The user interface is styled with Tailwind CSS, providing a clean and responsive design.
@@ -32,3 +33,6 @@ Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 
 Version Control: Git, GitHub
+=======
+# Social-Post-Management
+>>>>>>> b0534c0e4262e5b6829546ee9bc534df9c493acf
